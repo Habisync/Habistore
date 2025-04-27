@@ -1,0 +1,1 @@
+let r=({data:e})=>{var o,i;return[{title:((o=e==null?void 0:e.seo)==null?void 0:o.title)||"Smart Home Builder"},{description:((i=e==null?void 0:e.seo)==null?void 0:i.description)||"Custom smart home solutions"}]};export{r as meta};

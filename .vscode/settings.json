@@ -1,0 +1,12 @@
+{
+  "notebook.cellToolbarLocation": "hidden",
+  "notebook.displayOrder": [],
+  "notebook.enabled": false,
+  "notebook.showCellStatusBar": "hidden",
+  "jupyter.enableNativeInteractiveWindow": false,
+  "jupyter.sendSelectionToInteractiveWindow": false,
+  "jupyter.alwaysTrustNotebooks": false,
+  "jupyter.enableCellTagging": false,
+  "jupyter.askForKernelRestart": false,
+  "notebook.breadcrumbs.showCodeCells": false
+}

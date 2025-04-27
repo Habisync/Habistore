@@ -1,0 +1,1 @@
+import{j as m}from"./components-DpluEorh.js";import{c as n}from"./Text-DDUC__2Y.js";function p({as:s="div",width:r,height:o,className:t,...e}){const a=n("rounded bg-primary/10",t);return m.jsx(s,{...e,width:r,height:o,className:a})}export{p as S};
